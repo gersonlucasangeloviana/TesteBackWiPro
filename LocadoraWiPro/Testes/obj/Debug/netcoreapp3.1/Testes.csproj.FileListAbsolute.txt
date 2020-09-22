@@ -126,3 +126,4 @@ C:\Users\gsav\source\reposTestes\LocadoraWiPro\Testes\obj\Debug\netcoreapp3.1\Te
 C:\Users\gsav\source\reposTestes\LocadoraWiPro\Testes\obj\Debug\netcoreapp3.1\Testes.dll
 C:\Users\gsav\source\reposTestes\LocadoraWiPro\Testes\obj\Debug\netcoreapp3.1\Testes.pdb
 C:\Users\gsav\source\reposTestes\LocadoraWiPro\Testes\obj\Debug\netcoreapp3.1\Testes.genruntimeconfig.cache
+C:\Users\gsav\source\reposTestes\LocadoraWiPro\Testes\bin\Debug\netcoreapp3.1\System.Text.Json.dll
